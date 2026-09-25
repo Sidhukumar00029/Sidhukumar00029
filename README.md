@@ -1,6 +1,6 @@
 # Hi, I'm Sidharth Kumar Mourya
 
-### Associate @ BSkilling | Full Stack Developer | Java | Python | Automation | AI
+### Associate @ SFJ Business Solution | Full Stack Developer | Java | Python | Automation | AI
 
 I'm a software developer with hands-on experience in full-stack development, backend systems, automation, and AI-enabled applications.
 
