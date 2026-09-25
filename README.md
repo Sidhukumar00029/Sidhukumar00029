@@ -4,7 +4,7 @@
 
 I'm a software developer with hands-on experience in full-stack development, backend systems, automation, and AI-enabled applications.
 
-Currently working as an **Associate at BSkilling, Bangalore**, where I work with **Python, automation, IT solutions, and software development**.
+Currently working as an **Associate at SFJ Business Solution, Bangalore**, where I work with **Python, automation, IT solutions, and software development**.
 
 I enjoy building practical solutions, developing scalable applications, and solving real-world problems through technology.
 
@@ -12,7 +12,7 @@ I enjoy building practical solutions, developing scalable applications, and solv
 
 ## About Me
 
-- Associate at **BSkilling, Bangalore**
+- Associate at **SFJ Business Solution, Bangalore**
 - B.Tech graduate from **Haldia Institute of Technology**
 - Experience in **Full Stack Development and Backend Development**
 - Working with **Java, Spring Boot, Python, JavaScript, React, and Node.js**
@@ -58,6 +58,7 @@ I enjoy building practical solutions, developing scalable applications, and solv
 - AI API Integration
 - NLP
 - Computer Vision
+- AI Agents
 - Automation Workflows
 
 ### Tools & Technologies
@@ -74,6 +75,11 @@ I enjoy building practical solutions, developing scalable applications, and solv
 ---
 
 ## Featured Projects
+
+### AI Job Agent
+**Python | AI | Automation | Web Automation | AI Agents**
+
+An AI-powered job automation project designed to streamline the job-search and application process. The system focuses on discovering relevant job opportunities, understanding job requirements, and automating repetitive steps involved in job applications using AI and automation techniques.
 
 ### Sweet Shop Management System
 **Java | Spring Boot | MySQL | JPA | Mockito**
@@ -114,9 +120,10 @@ Web-based visual editor supporting layers, characters, backgrounds, props, anima
 - Java & Spring Boot
 - Python Development
 - REST API Development
-- Software Automation
+- AI Agents
 - Artificial Intelligence
 - Generative AI
+- Software Automation
 - Cloud & DevOps
 - Database Systems
 - Computer Vision
@@ -131,6 +138,7 @@ Web-based visual editor supporting layers, characters, backgrounds, props, anima
 - AWS
 - Generative AI
 - LLM APIs
+- AI Agents
 - AI Automation
 - System Design
 - Advanced React & JavaScript
@@ -140,7 +148,7 @@ Web-based visual editor supporting layers, characters, backgrounds, props, anima
 ## Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/sidharth-kumar-mourya-1365ba238/
-- **GitHub:** https://github.com/Sidhukumar00029
+- **GitHub:** https://github.com/Sidhukumar00029/
 
 ---
 
